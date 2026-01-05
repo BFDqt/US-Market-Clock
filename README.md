@@ -1,8 +1,27 @@
 # 🕒 US Market Clock 美股时钟小窗
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/BFDqt/US-Market-Clock/blob/main/us-market-clock.user.js">
+    <img alt="Install" src="https://img.shields.io/badge/Install-Raw%20Script-brightgreen?style=flat-square">
+  </a>
+  <a href="https://greasyfork.org/zh-CN/scripts/561549-us-market-clock-%E7%BE%8E%E8%82%A1%E6%97%B6%E9%92%9F%E5%B0%8F%E7%AA%97">
+    <img alt="Greasy Fork" src="https://img.shields.io/badge/Greasy%20Fork-Scripts-orange?style=flat-square">
+  </a>
+</p>
+
 > 一个轻量、常驻角落的美股交易时段悬浮小窗  
 > 适用于 Tampermonkey 等  
 > 纯净无广，作者自用
+---
+
+## 📌 脚本安装（一键）
+
+**点击下方按钮即可安装：**
+
+👉 **Raw 安装（推荐）**  
+https://raw.githubusercontent.com/BFDqt/US-Market-Clock/blob/main/us-market-clock.user.js
+
+> 打开上面链接 → 浏览器会显示原始脚本代码 → Tampermonkey 会自动弹出提示安装
 
 ---
 
